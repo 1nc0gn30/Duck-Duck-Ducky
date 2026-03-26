@@ -1,0 +1,5 @@
+{
+  "name": "The Payload Forge",
+  "description": "A web-based USB Rubber Ducky payload generator and reference guide.",
+  "requestFramePermissions": []
+}
